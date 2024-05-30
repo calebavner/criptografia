@@ -11,7 +11,7 @@ Resolução do desafio Criptografia do repositorio Backend Brasil, [neste link](
 * Spring Boot
 * Spring Data JPA
 * MySql
-* 
+* Jasypt
   
 :mag: Clone o projeto e teste na prática.
 
